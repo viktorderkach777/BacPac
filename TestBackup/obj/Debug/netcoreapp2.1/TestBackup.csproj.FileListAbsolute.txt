@@ -1,0 +1,22 @@
+D:\Study\mssql Server\Lesson 1.Backup\TestBackup\TestBackup\bin\Debug\netcoreapp2.1\TestBackup.deps.json
+D:\Study\mssql Server\Lesson 1.Backup\TestBackup\TestBackup\bin\Debug\netcoreapp2.1\TestBackup.runtimeconfig.json
+D:\Study\mssql Server\Lesson 1.Backup\TestBackup\TestBackup\bin\Debug\netcoreapp2.1\TestBackup.runtimeconfig.dev.json
+D:\Study\mssql Server\Lesson 1.Backup\TestBackup\TestBackup\bin\Debug\netcoreapp2.1\TestBackup.dll
+D:\Study\mssql Server\Lesson 1.Backup\TestBackup\TestBackup\bin\Debug\netcoreapp2.1\TestBackup.pdb
+D:\Study\mssql Server\Lesson 1.Backup\TestBackup\TestBackup\obj\Debug\netcoreapp2.1\TestBackup.csprojAssemblyReference.cache
+D:\Study\mssql Server\Lesson 1.Backup\TestBackup\TestBackup\obj\Debug\netcoreapp2.1\TestBackup.csproj.CoreCompileInputs.cache
+D:\Study\mssql Server\Lesson 1.Backup\TestBackup\TestBackup\obj\Debug\netcoreapp2.1\TestBackup.AssemblyInfoInputs.cache
+D:\Study\mssql Server\Lesson 1.Backup\TestBackup\TestBackup\obj\Debug\netcoreapp2.1\TestBackup.AssemblyInfo.cs
+D:\Study\mssql Server\Lesson 1.Backup\TestBackup\TestBackup\obj\Debug\netcoreapp2.1\TestBackup.dll
+D:\Study\mssql Server\Lesson 1.Backup\TestBackup\TestBackup\obj\Debug\netcoreapp2.1\TestBackup.pdb
+C:\Users\derkach\Desktop\TestBackup\TestBackup\bin\Debug\netcoreapp2.1\TestBackup.deps.json
+C:\Users\derkach\Desktop\TestBackup\TestBackup\bin\Debug\netcoreapp2.1\TestBackup.runtimeconfig.json
+C:\Users\derkach\Desktop\TestBackup\TestBackup\bin\Debug\netcoreapp2.1\TestBackup.runtimeconfig.dev.json
+C:\Users\derkach\Desktop\TestBackup\TestBackup\bin\Debug\netcoreapp2.1\TestBackup.dll
+C:\Users\derkach\Desktop\TestBackup\TestBackup\bin\Debug\netcoreapp2.1\TestBackup.pdb
+C:\Users\derkach\Desktop\TestBackup\TestBackup\obj\Debug\netcoreapp2.1\TestBackup.csprojAssemblyReference.cache
+C:\Users\derkach\Desktop\TestBackup\TestBackup\obj\Debug\netcoreapp2.1\TestBackup.csproj.CoreCompileInputs.cache
+C:\Users\derkach\Desktop\TestBackup\TestBackup\obj\Debug\netcoreapp2.1\TestBackup.AssemblyInfoInputs.cache
+C:\Users\derkach\Desktop\TestBackup\TestBackup\obj\Debug\netcoreapp2.1\TestBackup.AssemblyInfo.cs
+C:\Users\derkach\Desktop\TestBackup\TestBackup\obj\Debug\netcoreapp2.1\TestBackup.dll
+C:\Users\derkach\Desktop\TestBackup\TestBackup\obj\Debug\netcoreapp2.1\TestBackup.pdb
